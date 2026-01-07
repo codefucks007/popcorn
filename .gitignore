@@ -14,7 +14,7 @@ node_modules
 dist
 dist-ssr
 
-# Environment Variables (PENTING: Agar API Key tidak ter-upload)
+# Environment Variables 
 .env
 .env.local
 .env.*.local
